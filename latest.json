@@ -1,0 +1,15 @@
+{
+  "schema": "bsa-nba-public-feed-v1",
+  "sport": "basketball_nba",
+  "generated_utc": "2026-10-11T03:59:04Z",
+  "scope": "Upcoming 24 hours at source generation time",
+  "price_status": "RESEARCH_ONLY_NO_VERIFIED_TAB_ALTERNATIVE_PRICES",
+  "method": "Synthetic +/-20-point alternatives from real standard totals",
+  "limitations": [
+    "Not a verified or bookable TAB alternative total selection.",
+    "Do not infer individual-game win probabilities from historic averages.",
+    "Data may be stale: check generated_utc and latest_quote_utc.",
+    "Preseason must not be evaluated as regular season."
+  ],
+  "events": []
+}
