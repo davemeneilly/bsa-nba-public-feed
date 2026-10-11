@@ -1,7 +1,7 @@
 {
   "schema": "bsa-nba-public-feed-v1",
   "sport": "basketball_nba",
-  "generated_utc": "2026-10-11T06:21:57Z",
+  "generated_utc": "2026-10-11T06:43:30Z",
   "scope": "Upcoming 7 days at source generation time",
   "price_status": "RESEARCH_ONLY_NO_VERIFIED_TAB_ALTERNATIVE_PRICES",
   "method": "Synthetic +/-20-point alternatives from real standard totals",
