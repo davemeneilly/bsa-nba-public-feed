@@ -1,7 +1,7 @@
 {
   "schema": "bsa-nba-public-feed-v1",
   "sport": "basketball_nba",
-  "generated_utc": "2026-10-25T01:59:18Z",
+  "generated_utc": "2026-10-25T21:26:35Z",
   "scope": "Upcoming 7 days at source generation time",
   "price_status": "RESEARCH_ONLY_NO_VERIFIED_TAB_ALTERNATIVE_PRICES",
   "method": "Synthetic +/-20-point alternatives from real standard totals",
@@ -11,24 +11,5 @@
     "Data may be stale: check generated_utc and latest_quote_utc.",
     "Preseason must not be evaluated as regular season."
   ],
-  "events": [
-    {
-      "competition": "regular_season",
-      "tipoff_utc": "2026-10-25T02:10:00Z",
-      "home": "Phoenix Suns",
-      "away": "Golden State Warriors",
-      "standard_total": 221.5,
-      "low_over_20_synthetic": 201.5,
-      "high_under_20_synthetic": 241.5,
-      "consensus_fair_over_pct": 50.0,
-      "market_direction": "EVEN",
-      "bookmakers_quoted": 5,
-      "fresh_quote_count": 5,
-      "latest_quote_utc": "2026-10-25T01:12:22Z",
-      "quote_is_stale": false,
-      "alt_lines_verified": false,
-      "alt_odds_verified": false,
-      "assessment": "RESEARCH_ONLY_NO_VERIFIED_1_10_PRICE"
-    }
-  ]
+  "events": []
 }
